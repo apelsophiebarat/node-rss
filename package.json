@@ -23,7 +23,7 @@
         "url": "http://github.com/dylang/node-rss/issues"
     },
     "dependencies": {
-        "xml": "~0.0.4",
+        "xml": "git://github.com/apelsophiebarat/node-xml#v0.0.11",
         "mime": "~1.2.11"
     },
     "devDependencies": {
